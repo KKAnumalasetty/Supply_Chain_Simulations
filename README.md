@@ -1,4 +1,4 @@
-# Welcome to Probability Distributions 101 Page
+# Probability Distributions 101
 
 ## Uniform Distribution
 ![](images/uniform_dist.JPG)
