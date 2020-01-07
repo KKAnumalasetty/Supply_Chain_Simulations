@@ -1,5 +1,4 @@
-# Probability Distributions 101
-
+# Probability Distributions 101  
 ## Uniform Distribution
 ![](images/uniform_dist.JPG)
 
@@ -17,3 +16,5 @@
 
 ## Bernoulli Distribution
 ![](images/bernoulli_dist.JPG)
+
+<a href="https://kkanumalasetty.github.io/Supply_Chain_Simulations">Goto GitHub IO Page</a>
