@@ -1,3 +1,8 @@
+#  Inventory Simulation
+## Discrete Event Simulation - Customer Arrival, Customer Order and Purchase Order simulation
+![](images/Inventory_simulation_demo.gif)
+
+
 # Probability Distributions 101  
 ## Uniform Distribution
 ![](images/uniform_dist.JPG)
