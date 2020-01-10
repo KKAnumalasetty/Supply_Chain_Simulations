@@ -170,7 +170,7 @@ inventory_DF.plot(x='Time', y='Inventory_Level',style='.-')
 # In[20]:
 
 
-get_ipython().system('pip install panel')
+# get_ipython().system('pip install panel')
 
 
 # In[21]:
